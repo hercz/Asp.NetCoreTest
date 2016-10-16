@@ -230,11 +230,15 @@ C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Contr
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Controllers\HelloWorldController.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Controllers\HomeController.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Controllers\ManageController.cs
+C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Controllers\MoviesController.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Data\ApplicationDbContext.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\00000000000000_CreateIdentitySchema.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
+C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\20161016193626_Initial.cs
+C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\20161016193626_Initial.Designer.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\ApplicationUser.cs
+C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\Movie.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\AccountViewModels\ForgotPasswordViewModel.cs
 C:\Users\kmisk\Documents\Visual Studio 2015\Projects\MvcMovie\src\MvcMovie\Models\AccountViewModels\LoginViewModel.cs
